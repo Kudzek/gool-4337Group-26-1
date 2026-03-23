@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 4,
+    "FullName": "Анна Смирнова",
+    "Email": "anna@mail.com",
+    "BirthDate": "2003-02-10"
+  },
+  {
+    "Id": 5,
+    "FullName": "Олег Кузнецов",
+    "Email": "oleg@mail.com",
+    "BirthDate": "1992-11-01"
+  },
+  {
+    "Id": 6,
+    "FullName": "Мария Орлова",
+    "Email": "maria@mail.com",
+    "BirthDate": "1975-06-30"
+  }
+]
